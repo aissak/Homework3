@@ -1,0 +1,4 @@
+The file name is : CarlAndTheCottonGin.txt
+The total number of words is 27975
+The total number of the is 1336
+The total number of a or an is 688
